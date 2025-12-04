@@ -11,8 +11,7 @@ A simple user management system with full Create, Read, Update, Delete functiona
 - ✅ Form validation
 
 ## 🔗 Live Demo
-**Live URL:** [Your live URL will go here]
-
+**Live URL:** (http://keyonjohn.page.gd/index.php)
 ## 💻 Technologies Used
 - PHP 7.4+
 - MySQL
@@ -21,9 +20,7 @@ A simple user management system with full Create, Read, Update, Delete functiona
 
 ## 📦 Installation (Local Setup)
 1. Clone the repository:
-```bash
-   git clone https://github.com/not-keyonj/CRUD_App.git
-```
+
 2. Import database:
    - Open phpMyAdmin
    - Create database `crud_db`
@@ -42,17 +39,7 @@ A simple user management system with full Create, Read, Update, Delete functiona
 | created_at | TIMESTAMP | Record creation time |
 
 ## 📁 Project Structure
-```
-CRUD_App/
-├── sql/
-│   └── crud_db.sql          # Database export
-├── config.php                # Database configuration
-├── index.php                 # Main page (Read)
-├── create.php                # Add new user (Create)
-├── edit.php                  # Update user (Update)
-├── delete.php                # Remove user (Delete)
-└── README.md                 # This file
-```
+
 
 ## 🌐 Deployment
 - **Database:** Hosted on InfinityFree
@@ -63,25 +50,5 @@ Your Name - [GitHub Profile](https://github.com/not-keyonj)
 
 ## 📝 Assignment
 Created for Database Management Course
-Date: November 2025
-```
-
-### **Step 5: Save the file**
-
-Press `Ctrl + S` or click File → Save
-
----
-
-## 🎯 **VISUAL GUIDE:**
-
-1. **In VS Code, it looks like this:**
-```
-📁 CRUD_App
-  📄 README.md          ← Click this file
-  📄 index.php
-  📄 config.php
-  📄 create.php
-  📄 edit.php
-  📄 delete.php
-  📁 sql
+Date: December 2025
 
